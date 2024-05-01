@@ -1,0 +1,156 @@
+{
+   "team1": {
+        "name": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "logo": "./logos/mancity.png",
+        "stadium": "Etihad Stadium",
+        "ranking": 1,
+        "code": "MCI"
+    },
+    "team2": {
+        "name": "Bayern Munich",
+        "city": "Munich",
+        "country": "Germany",
+        "logo": "./logos/bayern.png",
+        "stadium": "Allianz Arena",
+        "ranking": 2,
+        "code": "BAY"
+    },
+    "team3": {
+        "name": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "logo": "./logos/realmadrid.png",
+        "stadium": "Santiago Bernabeu",
+        "ranking": 3,
+        "code": "RMA"
+    },
+    "team4": {
+        "name": "Paris Saint Germain",
+        "city": "Paris",
+        "country": "France",
+        "logo": "./logos/psg.png",
+        "stadium": "Parc des Princes",
+        "ranking": 4,
+        "code": "PSG"
+    },
+    "team5": {
+        "name": "Liverpool",
+        "city": "Liverpool",
+        "country": "England",
+        "logo": "./logos/liverpool.png",
+        "stadium": "Anfield",
+        "ranking": 5,
+        "code": "LIV"
+    },
+    "team6": {
+        "name": "Inter de Milan",
+        "city": "Milan",
+        "country": "Italy",
+        "logo": "./logos/inter.png",
+        "stadium": "Giuseppe Meazza",
+        "ranking": 6,
+        "code": "INT"
+    },
+    "team7": {
+        "name": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "logo": "./logos/leipzig.png",
+        "stadium": "Red Bull Arena",
+        "ranking": 7,
+        "code": "RBL"
+    },
+    "team8": {
+        "name": "Chelsea",
+        "city": "London",
+        "country": "England",
+        "logo": "./logos/chelsea.png",
+        "stadium": "Stamford Bridge",
+        "ranking": 8,
+        "code": "CHE"
+    },
+    "team9": {
+        "name": "AS Roma",
+        "city": "Rome",
+        "country": "Italy",
+        "logo": "./logos/roma.png",
+        "stadium": "Stadio Olimpico",
+        "ranking": 9,
+        "code": "ROM"
+    },
+    "team10": {
+        "name": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "logo": "./logos/manutd.png",
+        "stadium": "Old Trafford",
+        "ranking": 10,
+        "code": "MUN"
+    },
+    "team11":{
+        "name": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "logo": "./logos/barca.png",
+        "stadium": "Camp Nou",
+        "ranking": 11,
+        "code": "BAR"
+    },
+    "team12":{
+        "name": "Atletico de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "logo": "./logos/atleti.png",
+        "stadium": "Wanda Metropolitano",
+        "ranking": 12,
+        "code": "ATM"
+    },
+    "team13":{
+        "name": "Sevilla",
+        "city": "Sevilla",
+        "country": "Spain",
+        "logo": "./logos/sevilla.png",
+        "stadium": "Ramón Sánchez Pizjuán",
+        "ranking": 13,
+        "code": "SEV"
+    },
+    "team14":{
+        "name": "Bayer Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "logo": "./logos/leverkusen.png",
+        "stadium": "BayArena",
+        "ranking": 14,
+        "code": "LEV"
+    },
+    "team15": {
+        "name": "Villarreal",
+        "city": "Villarreal",
+        "country": "Spain",
+        "logo": "./logos/villarreal.png",
+        "stadium": "Estadio de la Cerámica",
+        "ranking": 15,
+        "code": "VIL"
+    },
+    "team16": {
+        "name": "Napoli",
+        "city": "Napoles",
+        "country": "Italy",
+        "logo": "./logos/napoli.png",
+        "stadium": "Stadio San Paolo",
+        "ranking": 16,
+        "code": "NAP"
+    },
+    "team17": {
+        "name": "Juventus",
+        "city": "Turin",
+        "country": "Italy",
+        "logo": "./logos/juventus.png",
+        "stadium": "Allianz Stadium",
+        "ranking": 17,
+        "code": "JUV"
+    }
+}
+    
